@@ -71,7 +71,7 @@ under the License.
        <repository>
          <id>nexus-release-repo</id>
          <name>your custom repo</name>
-         <url>http://54.227.78.173:8081/repository/maven-release/</url>
+         <url>http:// 52.90.139.131:8081/repository/maven-release/</url>
        </repository>
      </repositories>
    </profile>
